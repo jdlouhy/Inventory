@@ -21,7 +21,7 @@ m_in_stock--;
 else{
 cout << "Sorry, that item is out of stock"; 
 }
-
+//if it runs out of stock we get here
 }
 
 //overload the << operator to write the price to a fixed float precision of 2
