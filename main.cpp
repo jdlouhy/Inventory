@@ -16,6 +16,8 @@ int main()
     cin>>choice;
     if( choice == 'S' || choice == 's' )
     {
+     
+      
       stock.sell();
       cout<<stock<<"\n";
     }
